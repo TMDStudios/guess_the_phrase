@@ -1,3 +1,3 @@
-# guess_the_phrase
+# Guess the Phrase in Kotlin
 
-This is the Kotlin version
+This is the same program written in Kotlin
